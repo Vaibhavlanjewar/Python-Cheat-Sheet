@@ -2,6 +2,9 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import random
 
+print("-----------------------------------------------------------------------------------------------------------")
+print("                                   PYTHON CHEAT SHEET BY- \/ |\|  B |_                                     ")
+print("-----------------------------------------------------------------------------------------------------------\n\n")
 # Function to print colored text
 def print_colored_text(text, color):
     colors = {
